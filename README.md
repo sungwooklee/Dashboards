@@ -1,4 +1,12 @@
 # Dashboards
+## Billing Dashboard 
+> EC2 Right Sizing \
+![dashboard](https://github.com/sungwooklee/Dashboards/blob/main/img/EC2_Right_Sizing.png)
+\
+> AWS Billing\
+![dashboard](https://github.com/sungwooklee/Dashboards/blob/main/img/AWS_Billing.png)
+\
+\
 ## Performance Dashboard
 > APM 대시보드 샘플 \
 ![dashboard](https://github.com/sungwooklee/Dashboards/blob/main/img/dashboard_img.png)
