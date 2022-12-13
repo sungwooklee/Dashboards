@@ -6,6 +6,9 @@
 > AWS Billing\
 ![dashboard](https://github.com/sungwooklee/Dashboards/blob/main/img/AWS_Billing.png)
 \
+> Datadog Billing\
+![dashboard](https://github.com/sungwooklee/Dashboards/blob/main/img/Datadog_Billing.png)
+\
 \
 ## Performance Dashboard
 > APM 대시보드 샘플 \
