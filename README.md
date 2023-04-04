@@ -1,6 +1,6 @@
 # Dashboards
 ## Billing Dashboard 
-> EC2 Right Sizing \
+> EC2 Right Sizing\
 ![dashboard](https://github.com/sungwooklee/Dashboards/blob/main/img/EC2_Right_Sizing.png)
 \
 > AWS Billing\
